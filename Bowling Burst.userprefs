@@ -1,8 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ballMovement.cs">
     <Files>
-      <File FileName="Assets\ballMovement.cs" Line="12" Column="54" />
+      <File FileName="Assets\ballMovement.cs" Line="111" Column="3" />
       <File FileName="Assets\CameraFollowPlayerObject.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
